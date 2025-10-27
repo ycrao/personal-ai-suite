@@ -7,7 +7,7 @@ index-tts readme
 # or use the official installer script from packagecloud if preferred.
 # ref: https://git-lfs.com/
 git lfs install
-git clone https://github.com/index-tts/index-tts app
+git clone https://github.com/index-tts/index-tts.git app
 cd app
 git lfs pull
 # using proxy
