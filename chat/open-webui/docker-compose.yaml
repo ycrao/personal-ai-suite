@@ -1,0 +1,13 @@
+name: 'open-webui'
+services:
+  web:
+    image: registry.cn-hangzhou.aliyuncs.com/go-to-mirror/open-webui_open-webui:main
+    container_name: open-webui
+    ports:
+      - 3000:8080 # HTTP port
+    restart: on-failure
+    # environment:
+    #   - DEEPSEEK_API_KEY=sk-xxxxxx
+    #   - DEEPSEEK_URL=
+    volumes:
+      - ./data/:/app/backend/data/
