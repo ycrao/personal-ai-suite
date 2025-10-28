@@ -21,4 +21,4 @@ personal-ai-suite
 
 - 云商：微软（Microsoft Azure Cognitive）提供了一些音色效果比较好的 TTS 服务，抖音剪映也有。(国内外有很多提供该服务的云服务商，不一一赘述，试用付费标准不一)
 - 声音音色克隆：[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)，[F5-TTS](https://github.com/SWivid/F5-TTS)，[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)，[IndexTTS](https://github.com/index-tts/index-tts)，[Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
-- 预处理：[声音分离](https://vocalremover.org/zh/)
+- 预处理：[声音分离](https://vocalremover.org/zh/)，[uvr-gui](https://github.com/Anjok07/ultimatevocalremovergui)，还有facebook 停止维护的 [demucs](https://github.com/facebookresearch/demucs)
