@@ -19,6 +19,7 @@ personal-ai-suite
 - 🎉[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR): `DeepSeek` 官方实现的视觉识别解决方案。
 - [deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app): DeepSeek-OCR 一种 web 应用界面实现。
 - [deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs): 另一种基于 Rust 实现的客户端。
+- 更多：见 [ocr-demo README](ocr/ocr-demo/README.md) 。
 
 ![deepseek-ocr-rs](assets/deepseek-ocr-rs.png)
 
