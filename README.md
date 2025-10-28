@@ -28,6 +28,10 @@ personal-ai-suite
 - 声音音色克隆：[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)，[F5-TTS](https://github.com/SWivid/F5-TTS)，[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)，[IndexTTS](https://github.com/index-tts/index-tts)，[Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
 - 预处理：[声音分离](https://vocalremover.org/zh/)，[uvr-gui](https://github.com/Anjok07/ultimatevocalremovergui)，还有facebook 停止维护的 [demucs](https://github.com/facebookresearch/demucs)
 
+![cosy-voice](assets/cosy-voice.png)
+
+马宝国克隆声音试听：![mabaoguo-sound](assets/mabaoguo-sound.aac)
+
 ### Chat
 
 - 本地模型服务：[Ollama](https://ollama.com/)
