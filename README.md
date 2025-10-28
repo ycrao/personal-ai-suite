@@ -6,7 +6,7 @@ personal-ai-suite
 
 ### ASR (Automatic Speech Recognition) 语音识别
 
-目前测试，好像对英语识别比较好，长段中文识别不佳。
+目前测试下来，好像对英语识别比较好，长段中文识别不佳。
 
 - [Handy](https://github.com/cjpais/Handy): 离线语音转文字 (Speach-to-Text) 应用，基于 `Rust` 与 `Tarui` 实现。
 - [Whisper.cpp](https://github.com/ggml-org/whisper.cpp): 底层实现以及相关 ASR 模型。
@@ -40,3 +40,8 @@ personal-ai-suite
 - 大厂大模型：如腾讯 [元宝](https://yuanbao.tencent.com/)，抖音 [豆包](https://www.doubao.com/)，阿里 [通义](https://www.tongyi.com/) 以及墙外的 [Grok](https://grok.com/)，始祖 [ChatGPT](https://chatgpt.com/) 等等。
 
 ![open-webui](assets/open-webui.png)
+
+### ComfyUI
+
+- Windows 环境建议下载秋叶大佬的[整合包](https://space.bilibili.com/12566101)，免去各种配置问题。具体下载地址，见作者B站相关视频，这里有个可参考的 [wiki](https://comfyui-wiki.com/zh/install/install-comfyui/aaaki-comfyui-launcher-user-guide) 。
+- Linux 建议 `docker` 部署，可以参考这个仓库：[ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) 。
