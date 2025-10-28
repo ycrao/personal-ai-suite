@@ -30,9 +30,7 @@ personal-ai-suite
 
 ![cosy-voice](assets/cosy-voice.png)
 
-马宝国克隆声音试听：
-
-<audio controls="" autoplay="" src="assets/mabaoguo-sound.aac"></audio>
+马宝国克隆声音试听：[/mabaoguo-sound](assets/mabaoguo-sound.aac)
 
 ### Chat
 
