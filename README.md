@@ -19,6 +19,7 @@ personal-ai-suite
 - 🎉[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR): `DeepSeek` 官方实现的视觉识别解决方案。
 - [deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app): DeepSeek-OCR 一种 web 应用界面实现。
 - [deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs): 另一种基于 Rust 实现的客户端。
+- [DeepSeek-OCR-Web](https://github.com/fufankeji/DeepSeek-OCR-Web): 找到另一个版本，似乎支持 pdf 文档。
 - 更多：见 [ocr-demo README](ocr/ocr-demo/README.md) 。
 
 ![deepseek-ocr-rs](assets/deepseek-ocr-rs.png)
@@ -33,7 +34,7 @@ personal-ai-suite
 
 马保国克隆声音试听：[mabaoguo-sound](assets/mabaoguo-sound.aac)
 
-### Chat
+### LLM Chat
 
 - 本地模型服务：[Ollama](https://ollama.com/)
 - Chat WebUI：网页端 [Open WebUI](https://github.com/open-webui/open-webui)，建议 `docker` 部署，参考 [chat/open-webui/](chat/open-webui) 读我以及 yaml 配置文件；桌面端 [CherryStudio](https://www.cherry-ai.com/)，支持的第三方比较多；其它 GUI 客户端不一一列出了，请自行搜索。
