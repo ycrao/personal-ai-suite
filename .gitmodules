@@ -9,3 +9,7 @@ url = https://github.com/FunAudioLLM/CosyVoice.git
 [submodule "deepseek-ocr-rs"]
 path = ocr/deepseek-ocr-rs/app
 url = https://github.com/TimmyOVO/deepseek-ocr.rs.git
+
+[submodule "spark-tts"]
+path = tts/spark-tts/app
+url = https://github.com/SparkAudio/Spark-TTS.git

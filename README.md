@@ -38,7 +38,7 @@ personal-ai-suite
 
 - 本地模型服务：[Ollama](https://ollama.com/)
 - Chat WebUI：网页端 [Open WebUI](https://github.com/open-webui/open-webui)，建议 `docker` 部署，参考 [chat/open-webui/](chat/open-webui) 读我以及 yaml 配置文件；桌面端 [CherryStudio](https://www.cherry-ai.com/)，支持的第三方比较多；其它 GUI 客户端不一一列出了，请自行搜索。
-- 大厂大模型：如腾讯 [元宝](https://yuanbao.tencent.com/)，抖音 [豆包](https://www.doubao.com/)，阿里 [通义](https://www.tongyi.com/) 以及墙外的 [Grok](https://grok.com/)，始祖 [ChatGPT](https://chatgpt.com/) 等等。
+- 大厂大模型：如腾讯 [元宝](https://yuanbao.tencent.com/)，抖音 [豆包](https://www.doubao.com/)，阿里 [通义](https://www.tongyi.com/) 以及墙外的 [ChatGPT](https://chatgpt.com/) 与 [Grok](https://grok.com/) 等等。
 
 ![open-webui](assets/open-webui.png)
 
