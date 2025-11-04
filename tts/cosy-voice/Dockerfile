@@ -49,7 +49,7 @@ ENV PYTHONPATH="${PYTHONPATH}:/workspace/CosyVoice:/workspace/CosyVoice/third_pa
 COPY app/ /workspace/CosyVoice
 
 RUN conda activate ${VENV} && conda install -y -c conda-forge pynini==2.1.5
-RUN export all_proxy="http://192.168.100.16:7890"  && conda activate ${VENV} && cd CosyVoice && \
+RUN export all_proxy="http://192.168.100.16:7890" && conda activate ${VENV} && cd CosyVoice && \
     pip install -r requirements.txt --no-cache-dir
     # pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com --no-cache-dir
 
