@@ -30,9 +30,17 @@ personal-ai-suite
 - 声音音色克隆：[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)，[F5-TTS](https://github.com/SWivid/F5-TTS)，[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)，[IndexTTS](https://github.com/index-tts/index-tts)，[Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
 - 预处理：[声音分离](https://vocalremover.org/zh/)，[uvr-gui](https://github.com/Anjok07/ultimatevocalremovergui)，还有facebook 停止维护的 [demucs](https://github.com/facebookresearch/demucs)
 
+#### `cosy-voice` 演示
+
 ![cosy-voice](assets/cosy-voice.png)
 
 马保国克隆声音试听：[mabaoguo-sound](assets/mabaoguo-sound.aac)
+
+#### `spark-tts` 演示
+
+![spark-tts](assets/spark0-tts.png)
+
+马保国克隆声音《静夜思》试听：[mabaoguo-jingyesi](assets/mabaoguo-jingyesi.wav)
 
 ### LLM Chat
 
