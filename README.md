@@ -55,3 +55,10 @@ personal-ai-suite
 
 - Windows 环境建议下载秋叶大佬的[整合包](https://space.bilibili.com/12566101)，免去各种配置问题。具体下载地址，见作者B站相关视频，这里有个可参考的 [wiki](https://comfyui-wiki.com/zh/install/install-comfyui/aaaki-comfyui-launcher-user-guide) 。
 - Linux 建议 `docker` 部署，可以参考这个仓库：[ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) 。
+
+
+### Wan2.2-Animate
+
+>   阿里出品的统一的角色动画和视频人物替换模型。
+
+- 在线演示：[demo](https://www.modelscope.cn/studios/Wan-AI/Wan2.2-Animate)，也可以本地部署，都需要配置 `DASHSCOPE_API_KEY` ,参考[这里](https://help.aliyun.com/zh/model-studio/get-api-key)去设置申请。
