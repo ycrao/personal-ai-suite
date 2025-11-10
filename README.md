@@ -29,7 +29,7 @@ personal-ai-suite
 - 云商：微软（Microsoft Azure Cognitive）提供了一些音色效果比较好的 TTS 服务，抖音剪映也有。(国内外有很多提供该服务的云服务商，不一一赘述，试用付费标准不一)
 - 声音音色克隆：[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)，[F5-TTS](https://github.com/SWivid/F5-TTS)，[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)，[IndexTTS](https://github.com/index-tts/index-tts)，[Spark-TTS](https://github.com/SparkAudio/Spark-TTS)
 - 预处理：[声音分离](https://vocalremover.org/zh/)，[uvr-gui](https://github.com/Anjok07/ultimatevocalremovergui)，还有facebook 停止维护的 [demucs](https://github.com/facebookresearch/demucs)
-- 富有情感：[maya1](https://huggingface.co/maya-research/maya1)，[ChatTTS](https://github.com/2noise/ChatTTS)，[parler-tts](https://github.com/huggingface/parler-tts)，[EmotiVoice](https://github.com/netease-youdao/EmotiVoice)
+- 富有情感：[maya1](https://huggingface.co/maya-research/maya1)，[ChatTTS](https://github.com/2noise/ChatTTS)，[parler-tts](https://github.com/huggingface/parler-tts)，[EmotiVoice](https://github.com/netease-youdao/EmotiVoice) 附带方言且适合做播客的 [SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast)
 
 #### `cosy-voice` 演示
 
@@ -62,3 +62,12 @@ personal-ai-suite
 >   阿里出品的统一的角色动画和视频人物替换模型。
 
 - 在线演示：[demo](https://www.modelscope.cn/studios/Wan-AI/Wan2.2-Animate)，也可以本地部署，都需要配置 `DASHSCOPE_API_KEY` ,参考[这里](https://help.aliyun.com/zh/model-studio/get-api-key)去设置申请。
+
+### Wan2GP
+
+>   [wan2gp](https://github.com/deepbeepmeep/Wan2GP) 是基于原始 [wan2.1](https://github.com/Wan-Video/Wan2.1) 实现的 `GUI Playground` ，融合进去多种视频模型。
+
+安装比较繁琐，中间可能涉及到科学上网，后续需要下载的模型也比较多，还有硬件资源也要够“硬”（如硬盘存储大，GPU性能好，网络带宽足等），参考 [readme](2v/wan2-gp/readme.md) 使用 `docker` 部署。
+
+
+
